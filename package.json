@@ -14,5 +14,8 @@
     "library"
   ],
   "author": "Anonymous",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
 }
